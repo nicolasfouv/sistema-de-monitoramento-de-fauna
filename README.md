@@ -47,7 +47,7 @@
 
 <h2>Funcionalidades Principais</h2>
 <ul>
-  <li><strong>Gestão de Animais Domésticos:</strong> Cadastro de tutores, cães, entrevistas detalhadas e rastreio por GPS.</li>
+  <li><strong>Gestão de Animais Domésticos:</strong> Cadastro de tutores, animais, entrevistas detalhadas e rastreio por GPS.</li>
   <li><strong>Módulo Clínico:</strong> Registro de visitas veterinárias, exames físicos e histórico de vacinação.</li>
   <li><strong>Módulo de Atropelamentos:</strong> Cadastro de incidentes e laudos de necrópsia.</li>
   <li><strong>Análises Laboratoriais:</strong> Registro de resultados de hemogramas, bioquímicos, sorologia e análises de parasitos.</li>
